@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itsatulpal80
-- 👀 I’m interested in .web Devlopment..
+- 👀 I’m interested in WEBDEVLOPMENT.
 - 🌱 I’m currently learning Javascript and CSS
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me @itatulpal80 ion ig
+- 📫 How to reach me @itatulpal80 
 
 <!---
 itsatulpal80/itsatulpal80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
